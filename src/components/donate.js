@@ -17,7 +17,7 @@ const Donate = () => {
           <div className="mt-4">
             <a
               className="flex items-center justify-start w-20"
-              href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Frahuldkjain.github.io%2Fgithub-profile-readme-generator"
+              href=""
             >
               <img
                 className="w-20"
@@ -41,13 +41,13 @@ const Donate = () => {
             <img
               className="w-6 h-6 mr-2"
               src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg"
-              alt="Buy ko-fi for rahuldkjain"
+              alt="Buy ko-fi for Dharmendra"
             />
             Buy me a ko-fi
           </a>
           {/* Paypal */}
           <a
-            href="https://www.paypal.me/rahuldkjain/10"
+            href="pay-7489455687"
             className="flex items-center justify-evenly bg-white-500 text-white py-2 px-4 my-2 border border-solid"
             target="_blank"
             rel="noreferrer"
@@ -55,18 +55,18 @@ const Donate = () => {
             <img
               className="w-32 h-4"
               src="https://cdn.worldvectorlogo.com/logos/paypal-2.svg"
-              alt="Donate rahuldkjain via paypal"
+              alt="Donate phonepay via paypal"
             />
             {/* <img
               className="w-6 h-6 mr-2"
               src="https://www.vectorlogo.zone/logos/paypal/paypal-ar21.svg"
-              alt="Donate rahuldkjain via paypal"
+              alt="Donate Dharmendra via Phonepay"
             />
             Paypal */}
           </a>
           {/* BuyMeACoffee */}
           <a
-            href="https://www.buymeacoffee.com/rahuldkjain"
+            href="via phone pay-7489455687"
             className="flex items-center justify-evenly bg-orange-500 text-white py-2 px-4 my-2"
             target="_blank"
             rel="noreferrer"
@@ -74,7 +74,7 @@ const Donate = () => {
             <img
               className="w-6 h-6 mr-2"
               src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-icon.svg"
-              alt="Buy rahuldkjain A Coffee"
+              alt="Buy Dharmendra A Coffee"
             />
             Buy me a coffee
           </a>
