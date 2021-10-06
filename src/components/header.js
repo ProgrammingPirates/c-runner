@@ -68,7 +68,7 @@ const Header = props => {
       <div className="flex justify-center items-center">
         <a
           href="https://github.com/ProgrammingPirates"
-          aria-label="Star rahuldkjain/github-profile-readme-generator on GitHub"
+          aria-label="Star  GitHub"
           target="blank"
           className="mr-2"
         >
