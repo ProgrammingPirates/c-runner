@@ -264,7 +264,7 @@ const DisplaySupport = props => {
       <SectionTitle label="Support:" />
       {`<p>`}
       {props.support.buyMeACoffee &&
-        `<a href="https://www.buymeacoffee.com/${props.support.buyMeACoffee}">
+        `<a href="https://github.com/ProgrammingPirates/${props.support.buyMeACoffee}">
       <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="${props.support.buyMeACoffee}" /></a>`}
       {`</p><br><br>`}
       <br />
