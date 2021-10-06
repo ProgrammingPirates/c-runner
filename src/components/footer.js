@@ -53,8 +53,8 @@ const Footer = () => {
           </div>
           <div className="ml-2 sm:ml-0">
             <a
-              href="https://github.com/rahuldkjain/github-profile-readme-generator"
-              aria-label="Github rahuldkjain/github-profile-readme-generator"
+              href="https://github.com/ProgrammingPirates"
+              aria-label="https://github.com/ProgrammingPirates"
               target="blank"
             >
               Github
@@ -71,7 +71,7 @@ const Footer = () => {
           </div>
           <div className="ml-2 sm:ml-0">
             <a
-              href="https://github.com/rahuldkjain/github-profile-readme-generator/issues"
+              href="https://github.com/ProgrammingPirates"
               aria-label="Issues in rahuldkjain/github-profile-readme-generator"
               target="blank"
             >
@@ -80,8 +80,8 @@ const Footer = () => {
           </div>
           <div className="ml-2 sm:ml-0">
             <a
-              href="https://github.com/rahuldkjain/github-profile-readme-generator/pulls"
-              aria-label="Pull Requests in rahuldkjain/github-profile-readme-generator"
+              href="https://github.com/ProgrammingPiratess"
+              aria-label="https://github.com/ProgrammingPirates"
               target="blank"
             >
               Pull Requests
